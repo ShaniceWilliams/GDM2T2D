@@ -1,7 +1,7 @@
 [project]
 name = "gdm2t2d"
 version = "0.1.0"
-description = "Add your description here"
+description = "GDM2T2D Prediction Fast API Service"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
